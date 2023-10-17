@@ -1,0 +1,28 @@
+.text {
+     font-size: 48px;
+    font-family: "Playfair Display";
+    font-weight: 700;
+    color: rgba(37, 40, 43, 1);
+    width: 181px;
+    height: 72px;
+.ui/ux_desi {
+     font-size: 24px;
+    font-family: "Nunito";
+    font-weight: 700;
+    color: rgba(46, 54, 203, 1);
+    width: 486px;
+    height: 33px;
+.title {
+     font-size: 64px;
+    font-family: "Playfair Display";
+    font-weight: 700;
+    color: rgba(37, 40, 43, 1);
+    width: 486px;
+    height: 154px;
+.text {
+     font-size: 24px;
+    font-family: "Nunito";
+    font-weight: 400;
+    color: rgba(130, 130, 130, 1);
+    width: 485px;
+    height: 191px;
